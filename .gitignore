@@ -1,0 +1,16 @@
+*.prefs
+*.dex
+*.class
+*.cache
+*.jar
+out/*
+doc/*
+idea/*
+texdoclet_output/*
+.idea/*
+*~
+*.iml
+texdoclet/*
+test_TREC8_full/*
+texdoclet
+data/*
